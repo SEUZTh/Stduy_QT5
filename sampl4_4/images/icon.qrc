@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/icons">
+        <file>对号.svg</file>
+        <file>退出.svg</file>
+        <file>错误.svg</file>
+    </qresource>
+</RCC>
